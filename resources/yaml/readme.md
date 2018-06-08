@@ -1,0 +1,1 @@
+config files for kubernetes in yaml format
